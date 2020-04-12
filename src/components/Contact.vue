@@ -86,7 +86,6 @@ export default {
   methods: {
     submitForm($event) {
       if (this.$refs.contactForm.validate()) {
-        debugger;
         const data = {
           name: this.fullName,
           phone: this.phone,

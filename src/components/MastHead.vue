@@ -26,7 +26,7 @@ export default {
     Particles
   },
   mounted() {
-    debugger;
+    // https://jparticles.js.org/#/examples/particle
     new JParticles.particle("#particles", {
       // The straight line distance between the two particle centers is 90
       proximity: 150,

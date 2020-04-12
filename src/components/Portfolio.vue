@@ -55,6 +55,7 @@ export default {
   },
   data() {
     return {
+      // todo: add "gvanim"
       projects: [
         {
           title: "SCE Time Table",

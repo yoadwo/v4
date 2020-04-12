@@ -97,7 +97,10 @@ export default {
   },
 
   data: () => ({
-    title: "Portfolio"
+    // template idea taken from: https://startbootstrap.com/previews/freelancer/
+    // template converted using: https://codeburst.io/how-i-created-seo-friendly-portfolio-cv-website-and-hosted-it-on-github-d5c4da43cf2f
+    
+    // todo: add translations
   })
 };
 </script>
