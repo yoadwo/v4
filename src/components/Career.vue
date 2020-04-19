@@ -52,7 +52,7 @@ export default {
       {
         color: "yellow",
         year: "2020",
-        title: "Prime Minister's Office",
+        title: "Log-On",
         description: "Server-Side & Infrastructure",
         keyPoints: []
       },
