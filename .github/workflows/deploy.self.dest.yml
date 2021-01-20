@@ -25,4 +25,4 @@ jobs:
         REPO: git@github.com:yoadwo/v4.git
         BRANCH: public
         FOLDER: dist
-        SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_PRIVATE_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
