@@ -1,5 +1,5 @@
 <template>
-  <v-app-bar app color="yellow darken-1">
+  <v-app-bar app color="light-blue darken-1">
     <div class="d-flex align-end">
       <v-img
           alt="hacker logo"
