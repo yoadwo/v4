@@ -6,8 +6,10 @@
           <i class="fas fa-info-circle fa-3x"></i>
         </div>
       </div>
-      <img class="img-fluid h-100 w-100" :src="projectIconUrl(project.image)" alt />
+      <img class="img-fluid h-100 w-100" :src="projectIconUrl(project.image)" alt />      
     </v-avatar>
+    
+    
     <!-- Portfolio Item 6-->
     <!-- <div class="col-md-6 col-lg-4">
           <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">

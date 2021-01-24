@@ -95,7 +95,7 @@ export default {
             "My special feature was the 'birds-eye' navigation: Allowing even the orientation-challenged people get a straight reading back to their car. Behind the scenes, my own calculations compensate between 'real north' and 'magnetic north'."
           ],
           stack: ["- Mobile: Android", "- external APIs: Google Maps"],
-          screens: ["dude_main.png", "dude_camera.png", "dude_map.png"]
+          screens: ["dude_main.png", "dude_map.png"]
         }
       ],
       icons: [

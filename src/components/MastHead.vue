@@ -43,7 +43,9 @@ export default {
   min-width: 992px !important;
 }
 .masthead {
-  padding-top: calc(3rem + 14px);
+  /* before rounding the image */
+  /* padding-top: calc(2rem + 14px); */
+  padding-top: calc(3rem );
   padding-bottom: 4rem;
   background-color:#252934; 
   }
@@ -56,13 +58,16 @@ export default {
 }
 .masthead .masthead-avatar {
   /* width: 15rem; */
-  width: 30%;
-  height: 30%;
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
 }
 
 @media (min-width: 992px) {
   .masthead {
-    padding-top: calc(3rem + 44px);
+    /* before rounding the image */
+    /* padding-top: calc(2rem + 44px); */
+    padding-top: calc(3rem );
     padding-bottom: 4rem;
   }
   .masthead .masthead-heading {
